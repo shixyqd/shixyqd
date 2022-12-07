@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/shixyqd/<OWNER>/<OWNER>/header.jpg "Header")]
+
 # Hi there, I'm Xinyi!
 
 - 🔭 I’m currently a first-year graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University.
