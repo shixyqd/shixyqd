@@ -10,4 +10,5 @@
 -  Pronouns: she/her/hers
 -  Fun fact: I love indie & alternative music from the 90s. Most of my favorite bands are from that period and I've been to lots of concerts since I came to New York!
 -->
+<br><br>
 ![header](https://user-images.githubusercontent.com/73629497/206091253-a1a679cf-a0cc-4790-b1d5-f10cf6a57d87.jpg)
