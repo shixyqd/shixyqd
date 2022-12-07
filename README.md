@@ -1,4 +1,3 @@
-[![Header](https://raw.githubsercontent.com/shixyqd/<OWNER>/<OWNER>/https://github.com/shixyqd/shixyqd/blob/c80e187206cd84e233cbb31a761cbb163aa46a5a/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221206232115.jpg "Header")]
 ### Hi there 👋
 
 <!--
@@ -6,12 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a first-year graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University.
+- 🌱 I’m currently learning data structures, machine learning, data analysis.
+- 👯 I’m looking to collaborate on projects about data science using python and R
+- 🤔 I’m looking for help with SQL, and projects about data engineering
+- 💬 Ask me about economics, political economy, and environmental policy
+- 📫 How to reach me: shixyqd@outlook.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I love indie & alternative music from the 90s. Most of my favorite bands are from that period and I've been to lots of concerts since I came to New York!
 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shixyqd>&theme=<THEME_NAME>" />
