@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/shixyqd/<OWNER>/<OWNER>/header.jpg "Header")]
+![header](https://user-images.githubusercontent.com/73629497/206091253-a1a679cf-a0cc-4790-b1d5-f10cf6a57d87.jpg)
 
 # Hi there, I'm Xinyi!
 
