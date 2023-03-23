@@ -7,7 +7,7 @@ It retrieves data for a given cryptocurrency asset, and filters the results base
 including size, name of exchange, base asset and quote asset. Additionally, the function includes error handling and 
 type hints to improve its readability and robustness.
 
-The Project.ipynb is the main file that illustrate the use case of my function "get_exchange_prices."
+The Project.ipynb is the main file that illustrates the use case of my function "get_exchange_prices."
 This folder also includes a project proposal, the files of the get_exchange_price function and a test of the function.
 
 I am interested in data science and its application in finance, and always excited to discuss other projects and reseach of mine with everyone! :)
