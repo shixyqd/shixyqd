@@ -1,4 +1,11 @@
 This project "API on Cryptocurrency market" includes a python package that make a request to an external API.
-It is the final project of my course Modern Data Structures during my graduate study at the QMSS (Quantitative Methods in the Social Sciences) program at Columbia University.
-It retrieves data for a given cryptocurrency asset, and filters the results based on specified optional parameters including size, name of exchange, base asset and quote asset. Additionally, the function includes error handling and type hints to improve its readability and robustness.
-I am interested in data science and its application in finance. I am excited to discuss other projects and reseach of mine with everyone!
+
+It is the final project of my course Modern Data Structures during my graduate study at the QMSS (Quantitative
+Methods in the Social Sciences) program at Columbia University.
+
+It retrieves data for a given cryptocurrency asset, and filters the results based on specified optional parameters 
+including size, name of exchange, base asset and quote asset. Additionally, the function includes error handling and 
+type hints to improve its readability and robustness.
+
+I am interested in data science and its application in finance. 
+I am excited to discuss other projects and reseach of mine with everyone! :)
